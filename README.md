@@ -44,25 +44,26 @@ The backend service for the URL shortener.
 ## 💼 Experience
 
 **Software Engineer, Compro Technologies** (Jan 2025 - Present)
-- Migrated OneRoster to **serverless AWS microservices** (Lambda, API Gateway, SQS, DynamoDB, CDK) for 40,000+ users.
-- - Delivered **GraphQL APIs** on PostgreSQL (Hasura) and built a **Calendar Service** using CQRS and DDD.
-  - - Cut page load time by 20% by moving a Vue SPA to **Nuxt SSR**.
-   
-    - ---
+✅ Migrated OneRoster to **serverless AWS microservices** (Lambda, API Gateway, SQS, DynamoDB, CDK) for 40,000+ users.
 
-    ## 📊 GitHub Stats
+✅ Delivered **GraphQL APIs** on PostgreSQL (Hasura) and built a **Calendar Service** using CQRS and DDD.
 
-    ![Samyak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imsamyak&show_icons=true&theme=radical)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsamyak&layout=compact&theme=radical)
+✅ Cut page load time by 20% by moving a Vue SPA to **Nuxt SSR**.
 
-    ---
+---
 
-    ## 🎓 Education
-    B.Tech in Computer Science and Engineering, Maharaja Agrasen Institute of Technology, GGSIP University (CGPA 8.95/10)
+## 📊 GitHub Stats
 
-    ---
+![Samyak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imsamyak&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsamyak&layout=compact&theme=radical)
 
-    ## 📬 Let's Connect!
-    📧 Email: [imsamyak18@gmail.com](mailto:imsamyak18@gmail.com)
-    🔗 LinkedIn: [Samyak Jain](https://www.linkedin.com/in/imsamyakjain)
-    
+---
+
+## 🎓 Education
+B.Tech in Computer Science and Engineering, Maharaja Agrasen Institute of Technology, GGSIP University (CGPA 8.95/10)
+
+---
+
+## 📬 Let's Connect!
+📧 Email: [imsamyak18@gmail.com](mailto:imsamyak18@gmail.com)
+🔗 LinkedIn: [Samyak Jain](https://www.linkedin.com/in/imsamyakjain)

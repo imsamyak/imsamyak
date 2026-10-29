@@ -51,13 +51,28 @@
 ## 📌 Featured Projects
 
 ### 🛒 [Cartly - Event-Driven E-Commerce Platform](https://github.com/imsamyak/shop-monorepo)
+
 A **7-service microservice backend** (Spring Boot, Java) using **hexagonal architecture**, **RabbitMQ** with a transactional outbox/inbox, and **RS256 JWT** auth via JWKS. Includes a **Next.js 16 / React 19** storefront, a typed TypeScript SDK with 200+ tests, and an **AI shopping assistant** (Gemini tool-calling + RAG).
 
+![Language](https://img.shields.io/github/languages/top/imsamyak/shop-monorepo?style=flat-square)
+
 ### 🔗 [Linkora - Scalable URL Shortener](https://github.com/imsamyak/url-shortner)
+
 A full-stack URL shortener with a **Nuxt 4 / Vue 3 SSR** client and a modular **Express 5 / TypeScript** API. Uses a **single-table DynamoDB** model with cursor pagination and TTL, and **AWS CDK** infrastructure across two AZs. [Live architecture](https://linkora-mnyr.onrender.com/architecture)
 
-### ⚙️ [Linkora Backend](https://github.com/imsamyak/url-shortener-backend)
-The backend service for the URL shortener.
+![Language](https://img.shields.io/github/languages/top/imsamyak/url-shortner?style=flat-square)
+
+### ⚙️ [Distributed URL Shortener Backend](https://github.com/imsamyak/url-shortener-backend)
+
+A **Node.js + Express** API with **Zookeeper**-coordinated unique ID generation, 7-char **Base62** short codes, **MongoDB** storage, **Redis** caching with LRU eviction, and token-bucket rate limiting.
+
+![Language](https://img.shields.io/github/languages/top/imsamyak/url-shortener-backend?style=flat-square)
+
+### 🧩 [Trello GraphQL API](https://github.com/imsamyak/Trello_GQL_API)
+
+A **GraphQL API** for a Trello-style task board with a layered resolvers / services / models / validators design, generated types via **GraphQL Code Generator** and **Jest** tests.
+
+![Language](https://img.shields.io/github/languages/top/imsamyak/Trello_GQL_API?style=flat-square)
 
 ---
 
@@ -73,18 +88,14 @@ The backend service for the URL shortener.
 
 ---
 
-## 📊 GitHub Stats
-
-![Samyak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imsamyak&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsamyak&layout=compact&theme=radical)
-
----
-
 ## 🎓 Education
+
 B.Tech in Computer Science and Engineering, Maharaja Agrasen Institute of Technology, GGSIP University (CGPA 8.95/10)
 
 ---
 
 ## 📬 Let's Connect!
+
 📧 Email: [imsamyak18@gmail.com](mailto:imsamyak18@gmail.com)
+
 🔗 LinkedIn: [Samyak Jain](https://www.linkedin.com/in/imsamyakjain)
